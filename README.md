@@ -1,5 +1,7 @@
 # Machine Learning for Diamond Price
 
+![portada](https://github.com/Jorge-Solana/Machine-Learning-for-Diamonds/blob/main/images/1_U7QAaRAsfm455j7ljF2TgA.png)
+
 ## Scope
 
 The scope of this project is simple yet effective.
