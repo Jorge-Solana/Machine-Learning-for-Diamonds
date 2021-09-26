@@ -39,6 +39,10 @@ All this model had been developed and searched under a Grid Search and given som
 
 This three models were trained with a given sample which was divided into train and test. Trained with this train partition and then tested with the test partition.
 
+All the waiting:
+
+![image](https://github.com/Jorge-Solana/Machine-Learning-for-Diamonds/blob/main/images/9afd181fb537e19024c43ed50394d6ce.png)
+
 After that the best model of each grid for each model was implemented into the `test.csv` for a later upload to kaggle.
 
 ## End results
