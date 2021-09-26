@@ -43,6 +43,12 @@ After that the best model of each grid for each model was implemented into the `
 
 ## End results
 
+In the end, the best model found was a gradient boos with the following characteristics:
+
+- max_depth = 12
+- max_features = 7
+- min_samples_split = 30
+- n_estimators = 300
 
 ## Libraries used
 - [Pandas](https://pandas.pydata.org/)
